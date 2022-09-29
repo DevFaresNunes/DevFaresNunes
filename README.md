@@ -4,6 +4,7 @@
 
 <h2 align="center">Olá eu sou o Fares! <br> Sou um desenvolvedor FrontEnd.</h2>
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://github.com/DevFaresNunes/DevFaresNunes/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center" style="background:blue">
