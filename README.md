@@ -4,6 +4,8 @@
 
 <h2 align="center">Olá eu sou o Fares! <br> Sou um desenvolvedor FrontEnd.</h2>
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 <p align="center" style="background:blue">
   <a href="https://www.linkedin.com/in/fares-nunes-281b1a240/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Fares%20Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/>
