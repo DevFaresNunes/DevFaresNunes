@@ -4,7 +4,7 @@
 
 <h2 align="center">Olá eu sou o Fares! <br> Sou um desenvolvedor FrontEnd.</h2>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DevFaresNunes/DevFaresNunes/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center" style="background:blue">
   <a href="https://www.linkedin.com/in/fares-nunes-281b1a240/" target="_blank">
@@ -25,4 +25,3 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
