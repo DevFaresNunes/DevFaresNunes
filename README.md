@@ -4,8 +4,8 @@
 
 <h2 align="center">Olá eu sou o Fares! <br> Sou um desenvolvedor FrontEnd.</h2>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://github.com/DevFaresNunes/DevFaresNunes/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake dark](github-snake-dark.gif#gh-dark-mode-only)
 
 <p align="center" style="background:blue">
   <a href="https://www.linkedin.com/in/fares-nunes-281b1a240/" target="_blank">
