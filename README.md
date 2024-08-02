@@ -2,7 +2,7 @@
   <img align="center" alt="Coding gif" style="border-radius:50%;" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc">
 </div>
 <h2 align="center">Olá, eu sou o Fares!<br>Desenvolvedor FrontEnd</h2>
-<p align="center" margin=0>
+<p align="center">
   <a href="https://www.linkedin.com/in/fares-nunes-281b1a240">
     <img align="center" src="https://img.shields.io/badge/-Fares%20Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
