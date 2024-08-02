@@ -5,7 +5,7 @@
 <h2 align="center">Olá eu sou o Fares! <br> Sou um desenvolvedor FrontEnd.</h2>
 
 <p align="center" style="background:blue">
-  <a href="https://www.linkedin.com/in/fares-nunes-281b1a240/">
+  <a href="https://www.linkedin.com/in/fares-nunes-281b1a240">
     <img align="center" src="https://img.shields.io/badge/-Fares%20Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="mailto:faresnunes.dev@gmail.com">
