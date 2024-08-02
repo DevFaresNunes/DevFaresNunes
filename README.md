@@ -1,15 +1,3 @@
-<style>
-  p a {
-    display: inline-block;
-    padding: 0;
-    margin: 0;
-    border: none;
-  }
-  p a img {
-    display: block;
-  }
-</style>
-
 <div align="center">
   <img align="center" alt="Coding gif" style="border-radius:50%;" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc">
 </div>
