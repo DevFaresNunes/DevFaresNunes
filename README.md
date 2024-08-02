@@ -7,10 +7,10 @@
 <p align="center" style="background:blue">
   <a href="https://www.linkedin.com/in/fares-nunes-281b1a240/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Fares%20Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin"/>
-  </a>
+  </a> 
   <a href="mailto:faresnunes.dev@gmail.com">
     <img align="center" src="https://img.shields.io/badge/-faresnunes.dev-blue?style=flat-square&logo=Gmail&logoColor=white" alt="gmail"/>
-  </a> " "
+  </a>
 </p>
 
 <br />
