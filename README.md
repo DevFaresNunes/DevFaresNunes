@@ -5,10 +5,10 @@
 <h2 align="center">Olá, eu sou o Fares!<br>Desenvolvedor FrontEnd</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fares-nunes-281b1a240" style="margin-right: 5px;">
+  <a href="https://www.linkedin.com/in/fares-nunes-281b1a240" style="margin-right: 5px; text-decoration: none">
     <img align="center" src="https://img.shields.io/badge/-Fares%20Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:faresnunes.dev@gmail.com" style="margin-left: 5px;">
+  <a href="mailto:faresnunes.dev@gmail.com" style="margin-left: 5px; text-decoration: none">
     <img align="center" src="https://img.shields.io/badge/-faresnunes.dev-blue?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
