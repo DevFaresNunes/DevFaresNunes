@@ -4,8 +4,7 @@
 
 <h2 align="center">Olá, eu sou o Fares!<br>Desenvolvedor FrontEnd</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fares-nunes-281b1a240">
+<p align="center"><a href="https://www.linkedin.com/in/fares-nunes-281b1a240">
     <img align="center" src="https://img.shields.io/badge/-Fares%20Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a><a href="mailto:faresnunes.dev@gmail.com">
     <img align="center" src="https://img.shields.io/badge/-faresnunes.dev-blue?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
