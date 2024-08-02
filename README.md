@@ -1,3 +1,15 @@
+<style>
+  p a {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    border: none;
+  }
+  p a img {
+    display: block;
+  }
+</style>
+
 <div align="center">
   <img align="center" alt="Coding gif" style="border-radius:50%;" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc">
 </div>
@@ -5,10 +17,10 @@
 <h2 align="center">Olá, eu sou o Fares!<br>Desenvolvedor FrontEnd</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fares-nunes-281b1a240">
+  <a href="https://www.linkedin.com/in/fares-nunes-281b1a240" style="margin-right: 5px;">
     <img align="center" src="https://img.shields.io/badge/-Fares%20Nunes-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:faresnunes.dev@gmail.com">
+  <a href="mailto:faresnunes.dev@gmail.com" style="margin-left: 5px;">
     <img align="center" src="https://img.shields.io/badge/-faresnunes.dev-blue?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
